@@ -6,8 +6,8 @@
         <img src="https://github.com/MiaMaid/MiaMaid/blob/main/sakuya-izayoi-touhou.gif" width="200" alt="Мое фото или гифка">
     </td>
     <td>
-      <h1>Репозитории сеи чисты.</h1>
-      <p>Как дом после работы горничной</p>
+      <h1>Репозитории сии чисты.</h1>
+      <p>Точно поместье после работы прилежной горничной</p>
     </td>
   </tr>
 </table>
