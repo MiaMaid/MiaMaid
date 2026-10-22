@@ -14,5 +14,5 @@
 </table>
 
 # ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
-<img src="https://github.com/MiaMaid/MiaMaid/blob/main/noji.jpg">
+<img src="https://github.com/MiaMaid/MiaMaid/blob/main/noji.png">
 
