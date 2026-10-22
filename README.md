@@ -13,6 +13,7 @@
   </tr>
 </table>
 
-# ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
+#  <p align="center">♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡</p>
+
 <img src="https://github.com/MiaMaid/MiaMaid/blob/main/noji.png">
 
