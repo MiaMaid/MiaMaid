@@ -8,7 +8,7 @@
         <img src="https://github.com/MiaMaid/MiaMaid/blob/main/sakuya-izayoi-touhou.gif" width="200" alt="maid">
     </td>
     <td>
-      <h1>Никак не закончу уборку</h1>
+      <h3>Никак не закончу уборку</h3>
       <p>Господин будет недоволен...</p>
     </td>
   </tr>
