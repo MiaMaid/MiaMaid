@@ -8,8 +8,8 @@
         <img src="https://github.com/MiaMaid/MiaMaid/blob/main/sakuya-izayoi-touhou.gif" width="200" alt="maid">
     </td>
     <td>
-      <h1>Репозитории сии чисты.</h1>
-      <p>Точно поместье после работы прилежной горничной</p>
+      <h1>Никак не закончу уборку</h1>
+      <p>Господин будет недоволен...</p>
     </td>
   </tr>
 </table>
