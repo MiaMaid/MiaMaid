@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td>
-        <img src="https://github.com/MiaMaid/MiaMaid/blob/main/sakuya-izayoi-touhou.gif" width="300" alt="maid">
+        <img src="https://github.com/MiaMaid/MiaMaid/blob/main/sakuya-izayoi-touhou.gif" width="200" alt="maid">
     </td>
     <td>
       <h1>Репозитории сии чисты.</h1>
